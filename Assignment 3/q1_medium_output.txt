@@ -1,0 +1,119 @@
+P756, R, Debating, 10
+P991, Z, Literary, 10
+P806, Z, Hindi Samiti, 9
+P903, H, Hindi Samiti, 9
+P959, Y, PFC, 9
+P967, B, Music, 8
+P47, X, PFC, 10
+P675, B, FAC, 10
+P747, D, Music, 10
+P816, M, Quizzing, 10
+P690, G, Debating, 9
+P694, V, Hindi Samiti, 9
+P126, P, Hindi Samiti, 10
+P500, I, Debating, 10
+P913, M, Music, 10
+P123, C, Quizzing, 10
+P257, M, Quizzing, 10
+P439, P, Hindi Samiti, 10
+P964, U, Music, 10
+P196, T, Drama, 9
+P582, L, Quizzing, 8
+P391, J, Hindi Samiti, 10
+P887, N, FAC, 10
+P961, V, Quizzing, 9
+P56, T, Debating, 8
+P176, M, Hindi Samiti, 8
+P653, S, PFC, 8
+P294, V, Debating, 10
+P191, L, Music, 9
+P257, M, Quizzing, 9
+P122, X, Dance, 10
+P228, F, FAC, 10
+P384, B, FAC, 10
+P234, C, Music, 10
+P598, L, Literary, 10
+P879, R, PFC, 10
+P544, L, PFC, 10
+P943, C, Music, 10
+P741, C, Literary, 9
+P655, X, Quizzing, 10
+P223, B, FAC, 9
+P357, S, Literary, 9
+P81, A, FAC, 10
+P369, C, FAC, 10
+P465, F, Literary, 10
+P656, H, Debating, 10
+P438, G, Drama, 7
+P719, Y, Debating, 7
+P250, U, Hindi Samiti, 10
+P594, Y, Hindi Samiti, 9
+P831, P, Drama, 8
+P648, F, Hindi Samiti, 10
+P970, X, Music, 10
+P639, N, Hindi Samiti, 9
+P8, A, PFC, 9
+P505, S, FAC, 9
+P624, G, Dance, 9
+P940, C, Hindi Samiti, 10
+P115, O, FAC, 9
+P703, R, Quizzing, 9
+P122, X, Dance, 10
+P990, G, Hindi Samiti, 10
+P190, C, Hindi Samiti, 10
+P92, T, Hindi Samiti, 10
+P102, G, Music, 10
+P776, J, FAC, 10
+P580, Q, Dance, 9
+P966, B, Debating, 9
+P994, T, PFC, 9
+P27, G, Music, 10
+P797, D, Hindi Samiti, 10
+P23, Y, Hindi Samiti, 9
+P293, V, FAC, 10
+P345, U, Music, 10
+P512, U, Debating, 10
+P422, O, FAC, 10
+P649, G, PFC, 10
+P873, N, Debating, 9
+P544, L, PFC, 10
+P407, U, Music, 7
+P3, K, Hindi Samiti, 6
+P976, O, Debating, 10
+P373, Y, PFC, 9
+P565, T, Music, 7
+P215, T, Hindi Samiti, 9
+P684, K, Literary, 9
+P43, M, Quizzing, 8
+P24, H, Dance, 10
+P235, K, Literary, 9
+P795, K, Literary, 9
+P925, Q, Drama, 10
+P54, D, FAC, 9
+P474, S, Hindi Samiti, 9
+P903, H, Hindi Samiti, 10
+P432, O, Literary, 8
+P57, R, Drama, 7
+P12, M, Music, 10
+P589, G, Quizzing, 10
+P985, W, PFC, 10
+P67, L, Debating, 10
+P622, S, Drama, 9
+P787, E, Debating, 9
+P401, R, Drama, 10
+P420, O, Drama, 10
+P213, P, Dance, 9
+P94, R, PFC, 9
+P119, K, Hindi Samiti, 9
+P952, V, Debating, 8
+P373, Y, PFC, 10
+P55, D, Dance, 9
+P544, L, PFC, 9
+P349, Z, Debating, 10
+P502, M, Debating, 10
+P907, X, FAC, 9
+P500, I, Debating, 10
+P509, O, Literary, 10
+P563, R, Quizzing, 8
+Invalid Query Exception
+elapsed time: 179

@@ -1,0 +1,10 @@
+P8, Ashwini, IIT, 103
+P5, Manya, LSR, 96
+P3, Ashna, DRC, 88
+P8, Ashwini, IIT, E1, Blitzkrieg, 103
+P5, Manya, LSR, E1, Blitzkrieg, 96
+P3, Ashna, DRC, E1, Blitzkrieg, 88
+P8, Ashwini, IIT, E1, Blitzkrieg, 103
+P5, Manya, LSR, E1, Blitzkrieg, 96
+P3, Ashna, DRC, E1, Blitzkrieg, 88
+elapsed time: 10

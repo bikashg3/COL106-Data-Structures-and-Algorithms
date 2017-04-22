@@ -1,0 +1,137 @@
+P425, U, Hindi Samiti, 9
+P246, I, Hindi Samiti, 8
+P1, Y, Hindi Samiti, 6
+P195, Y, Music, 9
+P331, T, Hindi Samiti, 6
+P338, G, Music, 6
+P449, E, Dance, 9
+P466, G, Drama, 8
+P597, X, Literary, 8
+P280, S, Music, 10
+P21, E, Dance, 8
+P369, O, Music, 7
+P57, G, Drama, 9
+P562, X, Debating, 7
+P94, V, Quizzing, 7
+P411, D, FAC, 10
+P532, A, Hindi Samiti, 10
+P183, K, Dance, 4
+P65, L, Dance, 9
+P356, X, Music, 9
+P107, X, Quizzing, 6
+P43, T, Dance, 6
+P189, M, Drama, 3
+P316, I, Dance, 3
+P418, A, Literary, 10
+P460, P, FAC, 10
+P566, G, Debating, 10
+P260, L, Debating, 10
+P305, R, Literary, 8
+P542, W, Music, 8
+P126, Q, Music, 9
+P286, E, Drama, 9
+P396, D, Quizzing, 7
+P357, P, Hindi Samiti, 10
+P572, T, Drama, 10
+P284, H, Literary, 9
+P83, X, PFC, 10
+P512, N, Music, 10
+P243, Q, Dance, 9
+P25, Q, PFC, 10
+P572, T, Drama, 9
+P115, E, Hindi Samiti, 9
+P360, D, Dance, 4
+P378, R, Quizzing, 2
+P145, O, Debating, 2
+P589, V, Drama, 10
+P226, S, Music, 8
+P580, F, PFC, 7
+P393, X, Drama, 9
+P420, O, Debating, 9
+P485, B, Hindi Samiti, 7
+P40, S, Drama, 10
+P69, N, Hindi Samiti, 10
+P143, M, Dance, 10
+P467, P, Literary, 10
+P510, X, Literary, 10
+P454, W, Hindi Samiti, 9
+P379, Q, Literary, 10
+P161, Q, FAC, 9
+P491, T, Debating, 9
+P242, O, Drama, 10
+P348, E, Music, 8
+P3, X, Dance, 6
+P267, G, Quizzing, 9
+P406, P, FAC, 9
+P528, W, Dance, 6
+P457, C, Drama, 10
+P127, I, Debating, 9
+P465, B, Drama, 7
+P244, H, Literary, 10
+P478, O, Hindi Samiti, 8
+P599, J, Music, 8
+P353, J, FAC, 9
+P33, Z, Quizzing, 8
+P337, C, FAC, 7
+P425, U, Hindi Samiti, 8
+P53, E, Music, 5
+P147, T, Music, 4
+P114, T, Dance, 10
+P364, B, Literary, 10
+P89, A, Dance, 9
+P227, V, FAC, 10
+P490, K, Hindi Samiti, 9
+P22, C, Literary, 8
+P277, O, FAC, 7
+P475, N, Literary, 7
+P33, Z, Quizzing, 6
+P106, L, PFC, 10
+P22, C, Literary, 9
+P73, R, Quizzing, 9
+P240, Z, Quizzing, 7
+P424, X, FAC, 6
+P205, M, Drama, 4
+P28, S, PFC, 10
+P495, C, PFC, 10
+P109, A, FAC, 5
+P78, C, Quizzing, 10
+P593, M, Debating, 8
+P177, V, Music, 8
+P163, M, FAC, 10
+P524, L, Quizzing, 9
+P444, T, Debating, 7
+P39, T, Dance, 9
+P236, R, PFC, 9
+P547, J, Dance, 9
+P187, J, Quizzing, 10
+P440, H, Debating, 10
+P369, O, Music, 7
+P143, M, Dance, 8
+P173, G, PFC, 5
+P250, V, Dance, 5
+P510, X, Literary, 10
+P39, T, Dance, 8
+P482, U, Music, 5
+P327, P, Literary, 9
+P434, L, FAC, 9
+P599, J, Music, 8
+P98, K, Debating, 10
+P438, I, Music, 9
+P417, A, FAC, 8
+P474, E, Quizzing, 9
+P517, N, Literary, 9
+P564, O, Music, 8
+P419, L, PFC, 9
+P208, S, Music, 8
+P566, G, Debating, 7
+P6, R, Literary, 10
+P146, H, PFC, 10
+P514, O, PFC, 10
+P453, H, Dance, 10
+P561, A, Hindi Samiti, 10
+P448, H, Literary, 9
+P280, S, Music, 10
+P456, U, Music, 8
+P365, P, Literary, 7
+Invalid Query Exception
+elapsed time: 102

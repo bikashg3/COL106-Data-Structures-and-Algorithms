@@ -1,0 +1,10 @@
+P5, Manya, LSR, 93
+P3, Ashna, DRC, 86
+P1, Niharika, JMC, 83
+P5, Manya, LSR, E1, Blitzkrieg, 93
+P3, Ashna, DRC, E1, Blitzkrieg, 86
+P1, Niharika, JMC, E1, Blitzkrieg, 83
+P5, Manya, LSR, 93
+P1, Niharika, JMC, 83
+P6, Manohar, Hindu, 41
+elapsed time: 11

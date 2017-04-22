@@ -1,0 +1,11 @@
+P2, Jhanvi, LSR, 105
+P1, Niharika, JMC, 87
+P4, Priyam, SRCC, 72
+P3, Ashwini, IIT, 99
+P1, Niharika, JMC, 73
+P4, Priyam, SRCC, 56
+P2, Jhanvi, LSR, E1, Inquistion, 105
+P3, Ashwini, IIT, E2, Turncoat, 99
+P1, Niharika, JMC, E1, Inquistion, 87
+P2, Jhanvi, LSR, 105
+elapsed time: 10
